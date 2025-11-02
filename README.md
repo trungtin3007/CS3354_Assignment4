@@ -1,9 +1,9 @@
 # Assignment 4: Automated Unit Test Generation
 
 ## Team Members
-- [Your Name] - [Your NetID]
-- [Member 2 Name] - [Member 2 NetID]  
-- [Member 3 Name] - [Member 3 NetID]
+- [Trung Dinh] - [txd220035]
+- [Sagar Lamichhane] - [sxl230067]  
+- [Mokshith Mukala] - [mrm210014]
 
 ## Project Structure
 ```
